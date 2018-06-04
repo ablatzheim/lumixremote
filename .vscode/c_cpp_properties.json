@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries",
+                "${workspaceRoot}",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools",
+                "C:\\Program Files (x86)\\Arduino\\libraries",
+                "C:\\Users\\ablat\\Documents\\Arduino\\hardware\\tools",
+                "C:\\Users\\ablat\\Documents\\Arduino\\libraries",                
+            ],
+            "browse": {
+                "path": [
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "${workspaceRoot}",
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\tools",
+                    "C:\\Program Files (x86)\\Arduino\\libraries",
+                    "C:\\Users\\ablat\\Documents\\Arduino\\hardware\\tools",
+                    "C:\\Users\\ablat\\Documents\\Arduino\\libraries"
+                ],
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
